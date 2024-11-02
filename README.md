@@ -1,5 +1,5 @@
 Hi there, I'm Abbas Gure 👋
-<img width="400" src="./Suave.jpg" align="right"/>
+<img width="400" src="./Distrip.jpg" align="right"/>
 <br/><br/>
 💼 A fullstack engineer and C# enthusiast who likes to dabble in a few frontend technologies from time to time such as React
 <br/>
